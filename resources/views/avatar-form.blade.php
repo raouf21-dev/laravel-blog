@@ -8,6 +8,7 @@
         @error('avatar')
         <p class="alert small alert-danger shadow-sm">{{$message}}</p>
         @enderror
+        <!-- test -->
       </div>
       <button class="btn btn-primary">Save</button>
     </form>
